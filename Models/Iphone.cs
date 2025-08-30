@@ -10,5 +10,6 @@ namespace DesafioPOO.Models
         {
             Console.WriteLine($"Instanlando {nomeApp} no dispositivo iPhone {Numero} - {Modelo}");
         }
+
     }
 }
